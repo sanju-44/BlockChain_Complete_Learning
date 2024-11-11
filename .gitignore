@@ -1,0 +1,6 @@
+yarn.lock
+artifacts/
+cache/
+node_modules/
+.env
+safe-contracts/
